@@ -1,0 +1,21 @@
+img {
+	border: solid;
+	border-style: double;
+	border-width: 50px;
+	width: 150px;
+}
+#upperpics {
+	display: flex;
+}
+#upperpic {
+	flex: 33%;
+	padding: 50px;
+}
+
+#lowerpics {
+	display: flex;
+}
+#lowerpic {
+	flex: 33%;
+	padding: 50px;
+}
